@@ -7,6 +7,9 @@
     "start": "node index.js",
     "test": "jest"
   },
+  "bin": {
+    "currs": "bin/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Mosaab-Emam/currs.git"
