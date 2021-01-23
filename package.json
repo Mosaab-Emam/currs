@@ -1,5 +1,5 @@
 {
-  "name": "@sudan/currs",
+  "name": "currs",
   "version": "0.0.1",
   "description": "Currency prices in the Sudanese black market",
   "main": "index.js",
